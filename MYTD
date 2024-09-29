@@ -6,7 +6,7 @@ import threading
 
 root = tk.Tk()
 root.title('mYTdownloader, ver. 1.0')
-root.iconbitmap(r'C:\Users\user\Desktop\ico.ico')
+#root.iconbitmap(r'C:\Users\user\Desktop\ico.ico')
 root.geometry('580x300')
 root.resizable(False, False)
 root.configure(bg='#B0C4DE')
